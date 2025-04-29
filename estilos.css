@@ -1,9 +1,13 @@
 .contenedor{
-
-    background-color: blueviolet; 
+    background-color: rgb(113, 20, 201); 
     text-align: center;
     color: black;  
-padding: 35xp;
+padding: 40xp;
 border-radius: 50px;
-border: 1px solid;
+border: 7px solid;
+}
+
+.enlaces{
+    text-align: center;
+
 }
